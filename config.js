@@ -18,8 +18,8 @@ module.exports = {
   nodes: [
      {
       name: "GlaceYT",
-      password: "youshallnotpass",
-      host: "lavalink.jirayu.net",
+      password: "https://camming.xyz",
+      host: "173.249.0.115",
       port:  13592,
       secure: false
     }
