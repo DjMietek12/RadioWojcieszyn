@@ -23,8 +23,8 @@ module.exports = {
   nodes: [
      {
       name: "AYANO LAVA",
-      password: "194.58.66.44",
-      host: "AYANO ",
+      password: "AYANO",
+      host: "194.58.66.44 ",
       port: 3660,
       secure: false
     }
