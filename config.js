@@ -22,10 +22,10 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-      name: "Harmonix V4",
-      password: "Kaun.Yuvraj",
-      host: "pnode1.danbot.host",
-      port: 1186,
+      name: "GlaceYT",
+      password: "https://camming.xyz",
+      host: "173.249.0.115",
+      port: 13592,
       secure: false
     }
   ]
