@@ -22,10 +22,10 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-      name: "Public v4",
-      password: "https://dsc.gg/ajidevserver",
-      host: "lava-v4.ajieblogs.eu.org",
-      port: 80,
+      name: "Harmonix V4",
+      password: "Kaun.Yuvraj",
+      host: "pnode1.danbot.host",
+      port: 1186,
       secure: false
     }
   ]
