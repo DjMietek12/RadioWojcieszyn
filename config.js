@@ -22,10 +22,10 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-      name: "AYANO LAVA",
-      password: "AYANO",
-      host: "194.58.66.44",
-      port: 3660,
+      name: "Harmonix-NODE2",
+      password: "Kaun.Yuvraj",
+      host: "108.181.221.203",
+      port: 30001,
       secure: false
     }
   ]
