@@ -22,10 +22,10 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-      name: "Harmonix-NODE2",
-      password: "Kaun.Yuvraj",
-      host: "108.181.221.203",
-      port: 30001,
+      name: "Sakura",
+      password: "Sakura",
+      host: "ca.lavalink.yumistack.net",
+      port: 2333,
       secure: false
     }
   ]
